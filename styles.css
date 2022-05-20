@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Header */
+header {
+  background-color: #1f2937;
+  color: white;
+}
+
+.nav-bar {
+  display: flex;
+  width: 75%;
+  margin: 0 auto;
+}
+
+.nav-bar ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+.hero-section {
+  background-color: #1f2937;
+  color: white;
+  width: 75%;
+  margin: 0 auto;
+}
