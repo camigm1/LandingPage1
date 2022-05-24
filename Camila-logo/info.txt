@@ -1,0 +1,11 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Aganè 55 (roman) sign
+font link: https://www.graphicpear.com/agane-free-font/
+font author: Danilo De Marco
+font author site: http://www.danilodemarco.com/
+
+
+{"bg":"transparent","icon-gradient-0":"#783192","icon-gradient-1":"#59BCC8","font":"#000000","slogan":"#141414"}
+      

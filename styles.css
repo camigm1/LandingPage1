@@ -1,28 +1,44 @@
 * {
   box-sizing: border-box;
+  font-family: sans-serif;
 }
 
 /* Header */
 header {
   background-color: #1f2937;
   color: white;
+  display: flex;
 }
 
 .nav-bar {
   display: flex;
-  width: 75%;
+  justify-content: space-between;
   margin: 0 auto;
 }
 
-.nav-bar ul {
+ul {
   display: flex;
-  justify-content: space-around;
   list-style: none;
+  padding-left: 0;
+  justify-content: space-around;
+}
+
+.nav-bar ul li {
+  align-items: center;
+  justify-content: space-between;
 }
 
 .hero-section {
   background-color: #1f2937;
   color: white;
-  width: 75%;
+
   margin: 0 auto;
+}
+
+h1 {
+  margin: 0;
+}
+
+img {
+  width: 18%;
 }
