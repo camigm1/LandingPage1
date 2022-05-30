@@ -116,3 +116,49 @@ img {
 #reviewer-name {
   font-size: 20px;
 }
+
+.last-section-container {
+  padding: 50px 0;
+}
+
+.last-section {
+  display: flex;
+  width: 75%;
+  margin: 0 auto;
+  /* padding: 35px 40px; */
+  background-color: #3882f6;
+  justify-content: center;
+  color: white;
+  border-radius: 5px;
+}
+
+.last-content {
+  padding: 50px 50px;
+  width: 80%;
+}
+
+.last-button {
+  border: 1px solid white;
+  background-color: #3882f6;
+  color: white;
+  /* padding: 10px 20px; */
+  margin: 30px;
+  border-radius: 5px;
+}
+
+.last-content p:first-child {
+  font-weight: bold;
+  margin: 0;
+}
+
+.last-content p:nth-child(2) {
+  margin: 0;
+}
+
+footer p {
+  background-color: #1f2937;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 30px;
+}
