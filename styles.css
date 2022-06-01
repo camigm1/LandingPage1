@@ -32,9 +32,9 @@ ul {
   justify-content: space-around;
 }
 
-.nav-bar ul li {
+.nav-bar ul {
   align-items: center;
-  justify-content: space-between;
+  gap: 16px;
 }
 
 .hero-section {
@@ -115,6 +115,8 @@ img {
 
 #reviewer-name {
   font-size: 20px;
+  text-align: end;
+  font-weight: bold;
 }
 
 .last-section-container {
