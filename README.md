@@ -1,1 +1,1 @@
-# LandingPage1
+# A simple landing page for a static website
